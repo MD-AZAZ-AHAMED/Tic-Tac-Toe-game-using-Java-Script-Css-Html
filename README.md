@@ -1,5 +1,5 @@
 # Java-Script-Css-Html
-Self learning projects
+
 🎮 Tic Tac Toe Game
 A fun and responsive Tic Tac Toe game built using HTML, CSS, and JavaScript. Challenge your friends and test your strategy skills in this classic two-player game!
 
